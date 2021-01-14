@@ -1,4 +1,4 @@
-# SolveAlgosErrday
+# SolveAlgosEveryday
 
 ## Solving the algorithms every day in LeetCode and HackerRank.
 
